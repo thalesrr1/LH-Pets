@@ -1,0 +1,26 @@
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\appsettings.Development.json
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\appsettings.json
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.exe
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.deps.json
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.runtimeconfig.json
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.dll
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.pdb
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.AssemblyInfoInputs.cache
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.AssemblyInfo.cs
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.csproj.CoreCompileInputs.cache
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets\msbuild.build.LH Pets.props
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LH Pets.props
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LH Pets.props
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\scopedcss\bundle\LH Pets.styles.css
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.dll
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\refint\LH Pets.dll
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.pdb
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\LH Pets.genruntimeconfig.cache
+D:\Documentos\estudo\LH Pets\obj\Debug\net8.0\ref\LH Pets.dll
+D:\Documentos\estudo\LH Pets\bin\Debug\net8.0\LH Pets.staticwebassets.runtime.json
