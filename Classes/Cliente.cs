@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LH_Pets.Classes
 {
-    public class Clientes
+    public class Cliente
     {
         public string? cpf_cnpj { get; set; }
         
