@@ -15,13 +15,13 @@ namespace LH_Pets.Classes
             {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(
                     "Integrated Security=true;" +
-                    "Server="+
-                    "Database=vendas"+
-                    "Trusted_Connection=true"
+                    "Server=WIN-TC7FE8SQHM7\\SQLEXPRESS,1433;"+
+                    "Database=vendas;"+
+                    "Trusted_Connection=true;"
                 );
                 using (SqlConnection conn = new SqlConnection(builder.ConnectionString))
                 {
-                    string sql = "SELECT * FROM tbclientes";
+                    string sql = "SELECT * FROM tblclientes";
                     using (SqlCommand cmd = new SqlCommand(sql, conn))
                     {
                         conn.Open();
@@ -31,8 +31,8 @@ namespace LH_Pets.Classes
                             {
                                 lista.Add(new Cliente(){
                                     cpf_cnpj = tabela["cpf_cnpj"].ToString(),
-                                    nome = tabela["cpf_nome"].ToString(),
-                                    endereco = tabela["cpf_endereco"].ToString(),
+                                    nome = tabela["nome"].ToString(),
+                                    endereco = tabela["endereco"].ToString(),
                                     rg_ie = tabela["rg_ie"].ToString(),
                                     tipo = Convert.ToChar(tabela["tipo"]),
                                     valor = (float)Convert.ToDecimal(tabela["valor"]),
